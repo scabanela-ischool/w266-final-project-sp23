@@ -14,8 +14,8 @@ Ableism detection in toxic classification is vastly underexplored despite the la
 
 ## How to navigate this repo:
 
-- 266 Final Research Paper - Ableism Detection.pdf - the research paper we co-authored
-- notebooks folder - ipython notebooks containing code for training models
-- data folder - contains one of the datasets used to evaluate our models. Note that not all data was uploaded to this repo given github's repo size limitations.
-- Data_Preparation_Training_Toxigen_Hatemoji.ipynb - contains links to datasets and code for data preparation of our training datasets
-- Data_Preparation_Evaluation_Datasets.ipynb - contains links to datasets and code for data preparation of our evaluation datasets
+- `266 Final Research Paper - Ableism Detection.pdf` - the research paper we co-authored
+- `Data_Preparation_Training_Toxigen_Hatemoji.ipynb` - contains links to datasets and code for data preparation of our training datasets
+- `Data_Preparation_Evaluation_Datasets.ipynb` - contains links to datasets and code for data preparation of our evaluation datasets
+- `notebooks` folder - ipython notebooks containing code for training models
+- `data` folder - contains one of the datasets used to evaluate our models. Note that not all data was uploaded to this repo given github's repo size limitations.
